@@ -4,10 +4,10 @@ Uma extensão de navegador simples que conta o número de cliques feitos pelo us
 
 ## Funcionalidades
 
- Contador de cliques em tempo real.
- Temporizador regressivo de 10 segundos.
- Reset do contador a qualquer momento.
- Interface simples e intuitiva diretamente no popup da extensão.
+- Contador de cliques em tempo real.
+- Temporizador regressivo de 10 segundos.
+- Reset do contador a qualquer momento.
+- Interface simples e intuitiva diretamente no popup da extensão.
 
 ## Instalação
 
